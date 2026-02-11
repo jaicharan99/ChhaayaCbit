@@ -10,7 +10,7 @@ export default function Navbar() {
       <h1 className="text-xl font-bold">
       <div className="w-17 h-17 rounded-full overflow-hidden bg-black flex items-center justify-center">
   <Image
-    src="/chhaaya.jpg"
+    src="/events/chhaaya.jpg"
     alt="logo"
     width={80}
     height={80}

@@ -1,5 +1,5 @@
 "use client"
-import { Mail, Phone, Instagram, Facebook, Youtube } from "lucide-react";
+import { Mail, Phone, Instagram, Facebook, Youtube,Linkedin } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -11,8 +11,9 @@ export default function Footer() {
         {/* Social */}
         <div className="flex gap-4">
           <a href="https://www.instagram.com/chhaaya.cbit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="hover:text-red-500"><Instagram size={18}/></a>
-          <a href="#" className="hover:text-red-500"><Facebook size={18}/></a>
-          <a href="#" className="hover:text-red-500"><Youtube size={18}/></a>
+          
+          <a href="http://www.youtube.com/@chaayathefilmclubofcbit6496" className="hover:text-red-500"><Youtube size={18}/></a>
+          <a herf="https://www.linkedin.com/company/chaaya-cbit/" className="hover:text-red-500"><Linkedin size={18}/></a>
         </div>
         {/* Left */}
         <p className="text-sm">

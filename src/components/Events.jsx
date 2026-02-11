@@ -15,7 +15,7 @@ export default function Events() {
       desc: "Showcase your creativity on the big screen.",
       image: "/events/sfc1.png",
       details: "Submit your short films and compete with the best creators.  10,000/- for First Prize.5000/- each for Second & Third Prizes.   Registraions closes on 18TH FEB",
-      date: "12 March",
+      date: "21th FEB",
       venue: "CBIT",
       fee: "₹251",
       form:"https://docs.google.com/forms/d/e/1FAIpQLSfSZPwTu4AP2etxroEi6stgAG9oaQZXy0hR7Y2lzpPiqdSImA/viewform"
@@ -25,7 +25,7 @@ export default function Events() {
       desc: "Dress up like your favorite stars.",
       image: "/events/cosplay1.png",
       details: "Dress up as your favorite movie, anime, or pop-culture character.   Show your style, confidence, and steal the spotlight on stage. ₹5000 for First Prize & ₹2500 for Second Prize.  Registraions closes on 18TH FEB",
-      date: "13 March",
+      date: "19th FEB",
       venue: "CBIT",
       fee: "₹61 for person",
       form:"https://docs.google.com/forms/d/e/1FAIpQLSfrLs0BdZlWx-h8QJ1IF_3g93rZBuyDMLN3DUCRdpADzq7NKQ/viewform"
@@ -36,7 +36,7 @@ export default function Events() {
       desc: "Raw street theaters",
       image: "/events/images.png",
       details: "No stage, no lights — just passion and performance.Turning the streets into theatre and move the audience with your story.",
-      date: "14 March",
+      date: "20th FEB",
       venue: "CBIT",
       fee: "Free",
     },
